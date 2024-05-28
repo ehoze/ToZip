@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToZip", "ToZip.csproj", "{611B8DD6-80E4-4762-8574-ABB3AFE87E5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{611B8DD6-80E4-4762-8574-ABB3AFE87E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611B8DD6-80E4-4762-8574-ABB3AFE87E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611B8DD6-80E4-4762-8574-ABB3AFE87E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611B8DD6-80E4-4762-8574-ABB3AFE87E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE72D7AD-6550-4702-BA60-22891C378CF7}
+	EndGlobalSection
+EndGlobal
